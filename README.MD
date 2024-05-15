@@ -1,7 +1,7 @@
 <h2>🔖 Sobre</h2>
 <p>Projeto desenvolvido no curso "Java: consumindo API, gravando arquivos e lidando com erros".</p>
 A aplicação se integra à API do ViaCEP, utilizando as classes do Java para realizar uma requisição HTTP, bem como para salvar em um arquivo json.
-<p>O curso é parte da formação Java e Orientação a Objetos da Alura.</p>
+<p>O curso é parte da formaçãoo Java e Orientação a Objetos da Alura.</p>
 
 # Desenvolvedor
 
